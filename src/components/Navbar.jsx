@@ -10,6 +10,7 @@ export function Navbar() {
         {/* Enlaces de navegación */}
         <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-slate-300">
           <a href="#servicios" className="hover:text-white transition">Servicios</a>
+          <a href="#portafolio" className="hover:text-white transition">Portafolio</a>
           <a href="#contacto" className="hover:text-white transition">Contacto</a>
         </nav>
 
